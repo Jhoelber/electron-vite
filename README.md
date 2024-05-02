@@ -32,3 +32,22 @@ $ npm run build:mac
 # For Linux
 $ npm run build:linux
 ```
+Para a utilização das imagens - As mesmas foram armazenadas no cloudinary para conseguir modificar de forma externa sem problemas
+o modo para utilizar segue o seguinte template
+ const cld = new Cloudinary({
+    cloud: {
+      cloudName: "dfgbasaxa"
+    }
+
+  })
+  const myImage = cld.image(`images/icon.png`);
+    onde o icone pode ser passado de forma dinamica
+    ↓                     ↓                       ↓
+    const myImage = cld.image(`images/${UrlImagesTypes.imagem}`); --> o nome dos icones estão sendo passados pelo array
+
+ <AdvancedImage className="p-4" cldImg={myImage} />  --> forma para renderizar as imagens 
+
+
+
+
+
