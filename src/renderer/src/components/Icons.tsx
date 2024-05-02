@@ -18,12 +18,12 @@ export const Icons = ({ UrlImagesTypes }: Props) => {
 
   return (
 
-    <div className="mx-auto">
+    <div className="mx-auto" >
 
       <a className="text-black" href={UrlImagesTypes.url}>
 
         <div className="card">
-        <AdvancedImage className="image"  cldImg={myImage} />
+        <AdvancedImage className="image"  cldImg={myImage} alt={`icone de ${UrlImagesTypes.descricao}`}  />
           <img className="image" src={`${myImage}`} alt="" />
           <div>
             <h2 className="h-10 text-center tamanhoTexto" >{UrlImagesTypes.descricao}</h2>
