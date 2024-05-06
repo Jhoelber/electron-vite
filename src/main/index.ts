@@ -79,12 +79,7 @@ async function abrirPDF(caminhoDoPDF: string) {
 }
 
 function addNavigationButtons(mainWindow) {
-  // const isLoginPage = mainWindow.webContents
-  //   .getURL()
-  //   .startsWith('file://' + path.join(__dirname, 'login.html')) //ainda nao esta sendo utilizado
-    // const isHomePage = mainWindow.webContents
-    //  .getURL()
-    //   .startsWith('file://' + path.join(__dirname, 'index.html'))
+ 
 
 const url = mainWindow.webContents.getURL()
   app.commandLine.appendSwitch('disable-features', 'OutOfBlinkCors')
