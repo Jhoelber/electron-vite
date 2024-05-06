@@ -4,7 +4,7 @@ import fs from 'fs/promises'
 import path, { join } from 'path'
 import icon from '../../resources/icon.png?asset'
 
-let mainWindow: BrowserWindow | null = null
+let mainWindow
 
 function createWindow(): void {
   mainWindow = new BrowserWindow({
@@ -21,9 +21,10 @@ function createWindow(): void {
       contextIsolation: false,
       webSecurity: true,
       allowRunningInsecureContent: false,
-      devTools: true,
+      devTools: true
     }
   })
+
   const template = []
   const menu = Menu.buildFromTemplate(template)
   Menu.setApplicationMenu(menu)
@@ -32,8 +33,7 @@ function createWindow(): void {
       mainWindow.show()
       addNavigationButtons(mainWindow)
       checkInternetConnection()
-      // mainWindow.webContents.openDevTools()
-
+      mainWindow.webContents.openDevTools()
     }
   })
 
@@ -57,6 +57,7 @@ function createWindow(): void {
     const fullPath = path.join(app.getPath('downloads'), fileName)
     item.setSavePath(fullPath)
 
+
     item.on('done', async (_, state) => {
       if (state === 'completed') {
         try {
@@ -78,27 +79,30 @@ async function abrirPDF(caminhoDoPDF: string) {
 }
 
 function addNavigationButtons(mainWindow) {
-  const isLoginPage = mainWindow.webContents
-    .getURL()
-    .startsWith('file://' + path.join(__dirname, 'login.html'))//ainda nao esta sendo utilizado
-  const isHomePage = mainWindow.webContents
-    .getURL()
-    .startsWith('file://' + path.join(__dirname, 'index.html'))
+  // const isLoginPage = mainWindow.webContents
+  //   .getURL()
+  //   .startsWith('file://' + path.join(__dirname, 'login.html')) //ainda nao esta sendo utilizado
+    // const isHomePage = mainWindow.webContents
+    //  .getURL()
+    //   .startsWith('file://' + path.join(__dirname, 'index.html'))
 
+const url = mainWindow.webContents.getURL()
   app.commandLine.appendSwitch('disable-features', 'OutOfBlinkCors')
 
-  if (isLoginPage || isHomePage) {
-    mainWindow.webContents.insertCSS(`
+  if (url == 'http://localhost:5173/') {
 
+    mainWindow.webContents.insertCSS(`
       .navigation-buttons {
-        display: ;
+        display: none;
       }
+
+
 
     `)
   } else {
     mainWindow.webContents.insertCSS(`
     body::before {
-      content: '';
+      content:'';
       display: block;
       height: 60px;
       overflow-x: hidden;
@@ -108,7 +112,6 @@ function addNavigationButtons(mainWindow) {
       display: none;
     }
       .navigation-buttons {
-
         position: fixed;
         top: 0;
         left: 0;
@@ -122,13 +125,16 @@ function addNavigationButtons(mainWindow) {
         z-index: 9999;
         border: none;
       }
+
       .navigation-buttons button {
         margin-right: 10px;
         margin-left: 10px;
       }
+
     `)
 
     mainWindow.webContents.executeJavaScript(`
+
       if (!document.getElementById('navigation-container')) {
         const navigationContainer = document.createElement('div');
 
@@ -152,17 +158,14 @@ function addNavigationButtons(mainWindow) {
         sairButton.style.cssText = 'background-color: #eee; border: 0.5px solid #ccc; border-radius: 7px; color: black; gap: 10px; margin-right: 2em; padding:8px; font-size: 12px;';
         sairButton.addEventListener('click', () => {
 
-         const historico = history.length;
-         console.log(historico);
+
 
           function goBackToStart() {
-
-            history.go(-(historico)+1);
+            history.go(-(history.length)+1);
         }
         goBackToStart()
         });
         navigationContainer.appendChild(sairButton);
-
         document.body.appendChild(navigationContainer);
 
         if (
@@ -206,7 +209,6 @@ function checkInternetConnection() {
     // Recria os botões de navegação
     addNavigationButtons();
   `
-
   mainWindow?.webContents.executeJavaScript(`
     window.addEventListener('online', () => {
       ${onlineScript}
@@ -230,8 +232,8 @@ app.whenReady().then(() => {
   })
 
   ipcMain.on('ping', () => console.log('pong'))
-
   createWindow()
+
 
   app.on('activate', function () {
     if (!mainWindow) {
