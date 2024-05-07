@@ -34,7 +34,7 @@ export const PaginaLogin = () => {
   };
 
   return (
-    <div className="bg-[#DBEAFE]">
+    <div className="bg-[#DBEAFE] h-screen">
       {isLoggedIn ? (
         <PaginaPrincipal />
       ) : (
@@ -60,7 +60,7 @@ export const PaginaLogin = () => {
             </div>
           </div>
 
-          <div className="flex flex-col items-center justify-center bg-white col-span-1 ">
+          <div className="flex flex-col items-center justify-center bg-white col-span-1 h-screen">
             <img src={cld.image(`imagesLogin/iconLogin3`).toURL()} alt="" className="w-96 pb-4" />
             {/* <h2 className="pb-24 text-3xl font-bold text-zinc-800">BEM VINDO AO TOTEM</h2> */}
 
