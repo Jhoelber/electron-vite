@@ -34,6 +34,9 @@ function createWindow(): void {
       addNavigationButtons(mainWindow)
       checkInternetConnection()
       mainWindow.webContents.openDevTools()
+      const url = mainWindow.webContents.getURL()
+      app.commandLine.appendSwitch('disable-features', 'OutOfBlinkCors')
+      console.log(url)
     }
   })
 
@@ -57,7 +60,6 @@ function createWindow(): void {
     const fullPath = path.join(app.getPath('downloads'), fileName)
     item.setSavePath(fullPath)
 
-
     item.on('done', async (_, state) => {
       if (state === 'completed') {
         try {
@@ -79,19 +81,23 @@ async function abrirPDF(caminhoDoPDF: string) {
 }
 
 function addNavigationButtons(mainWindow) {
- 
-
-const url = mainWindow.webContents.getURL()
+  // const isLoginPage = mainWindow.webContents
+  //   .getURL()
+  //   .startsWith('file://' + path.join(__dirname, 'login.html')) //ainda nao esta sendo utilizado
+  // const isHomePage = mainWindow.webContents
+  //  .getURL()
+  //   .startsWith('file://' + path.join(__dirname, 'index.html'))
+  const url = mainWindow.webContents.getURL()
   app.commandLine.appendSwitch('disable-features', 'OutOfBlinkCors')
-
+  console.log(url)
   if (url == 'http://localhost:5173/') {
-
     mainWindow.webContents.insertCSS(`
       .navigation-buttons {
         display: none;
       }
-
-
+      body::-webkit-scrollbar {
+        display: none;
+      }
 
     `)
   } else {
@@ -152,8 +158,6 @@ const url = mainWindow.webContents.getURL()
         sairButton.innerText = 'sair';
         sairButton.style.cssText = 'background-color: #eee; border: 0.5px solid #ccc; border-radius: 7px; color: black; gap: 10px; margin-right: 2em; padding:8px; font-size: 12px;';
         sairButton.addEventListener('click', () => {
-
-
 
           function goBackToStart() {
             history.go(-(history.length)+1);
@@ -228,7 +232,6 @@ app.whenReady().then(() => {
 
   ipcMain.on('ping', () => console.log('pong'))
   createWindow()
-
 
   app.on('activate', function () {
     if (!mainWindow) {
