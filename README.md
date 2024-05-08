@@ -45,9 +45,11 @@ o modo para utilizar segue o seguinte template
     ↓                     ↓                       ↓
     const myImage = cld.image(`images/${UrlImagesTypes.imagem}`); --> o nome dos icones estão sendo passados pelo array
 
- <AdvancedImage className="p-4" cldImg={myImage} />  --> forma para renderizar as imagens 
+ <AdvancedImage className="p-4" cldImg={myImage} />  --> forma para renderizar as imagens ou  img src={cld.image(`imagesLogin/Parcelasimplesnacional`).toURL()} /> 
+ 
 
 
+****
 
 
 
