@@ -54,10 +54,7 @@ export const PaginaLogin = () => {
                 <img src={cld.image(`imagesLogin/Debitoautomatico`).toURL()} className="w-32 animate-bounce" alt="Icone debito automatico" />
               </div>
             </div>
-
-            <div>
-
-            </div>
+            
           </div>
 
           <div className="flex flex-col items-center justify-center bg-white col-span-1 h-screen ">
@@ -101,11 +98,13 @@ export const PaginaLogin = () => {
             </div>
 
             <div className="flex flex-col items-end ml-20">
-              <p className="text-sky-400"><a href="https://www.google.com.br/?hl=pt-BR">Esqueci minha senha</a></p>
+              <p className="text-sky-400"><a href="">Esqueci minha senha</a></p>
+
               <p className="text-sky-400"><a href="#">alterar dados</a> </p>
             </div>
 
             <p><a href="#">Ainda nao possui conta? clique em <span className="text-sky-400">Cadastrar</span></a></p>
+           
           </div>
         </div>
       )}
