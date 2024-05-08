@@ -1,0 +1,2785 @@
+[
+  {
+      "Ocupação": "Viveirista independente",
+   "Descrição": "Horticultura, exceto morango"
+   
+  },
+  {
+      "Ocupação": "Apicultor(a) independente",
+   "Descrição": "Apicultura"
+   
+  },
+  {
+      "Ocupação": "Criador(a) de animais domésticos independente",
+   "Descrição": "Criação de animais de estimação"
+   
+  },
+  {
+      "Ocupação": "Prestador(a) de serviços de poda, sob contrato de empreitada, independente",
+   "Descrição": "Serviço de poda de arvores para lavoura"
+   
+  },
+  {
+      "Ocupação": "Prestador(a) de serviços de colheita, sob contrato de empreitada, independente",
+   "Descrição": "Serviço de preparação de terreno, cultivo e colheita"
+   
+  },
+  {
+      "Ocupação": "Prestador(a) de serviços de preparação de terrenos, sob contrato de empreitada, independente",
+   "Descrição": "Serviço de preparação de terreno, cultivo e colheita"
+   
+  },
+  {
+      "Ocupação": "Prestador(a) de serviços de roçagem, destocamento, lavração, gradagem e sulcamento, sob contrato de empreitada, independente",
+   "Descrição": "Serviço de preparação de terreno, cultivo e colheita"
+   
+  },
+  {
+      "Ocupação": "Prestador(a) de serviços de semeadura, sob contrato de empreitada, independente",
+   "Descrição": "Serviço de preparação de terreno, cultivo e colheita"
+   
+  },
+  {
+      "Ocupação": "Tosquiador(a) independente",
+   "Descrição": "Serviço de tosquiamento de ovinos"
+   
+  },
+  {
+      "Ocupação": "Criador(a) de peixes ornamentais em água salgada independente",
+   "Descrição": "Criação de peixes ornamentais em água salgada e salobra"
+   
+  },
+  {
+      "Ocupação": "Criador(a) de peixes ornamentais em água doce independente",
+   "Descrição": "Criação de peixes ornamentais em água doce"
+   
+  },
+  {
+      "Ocupação": "Salineiro\/extrator de sal marinho independente",
+   "Descrição": "Extração de sal marinho"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de produtos derivados de carne independente",
+   "Descrição": "Fabricação de produtos de carne"
+   
+  },
+  {
+   
+   "Ocupação": "Salsicheiro(a)\/linguiceiro(a) independente",
+   "Descrição": "Fabricação de produtos de carne"
+   
+  },
+  {
+   
+   "Ocupação": "Beneficiador(a) de castanha independente",
+   "Descrição": "Fabricante de conservas de frutas"
+   
+  },
+  {
+   
+   "Ocupação": "Compoteiro(a) independente",
+   "Descrição": "Fabricação de conservas de frutas"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de amendoim e castanha de caju torrados e salgados independente",
+   "Descrição": "Fabricante de conservas de frutas"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de conservas de frutas independente",
+   "Descrição": "Fabricação de conservas de frutas"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de polpas de frutas independente",
+   "Descrição": "Fabricação de conservas de frutas"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de conservas de legumes e outros vegetais independente",
+   "Descrição": "Fabricação de conservas de legumes e outros vegetais, exceto palmito"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de sucos concentrados de frutas, hortaliças e legumes independente",
+   "Descrição": "Fabricação de sucos concentrados de frutas, hortaliças e legumes"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de sucos de frutas, hortaliças e legumes independente",
+   "Descrição": "Fabricação de sucos de frutas, hortaliças e legumes, exceto concentrados"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de laticínios independente",
+   "Descrição": "Fabricação de laticínios"
+   
+  },
+  {
+   
+   "Ocupação": "Queijeiro(a)\/ manteigueiro(a) independente",
+   "Descrição": "Fabricação de laticínios"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de produtos derivados do arroz independente",
+   "Descrição": "Fabricação de produtos do arroz"
+   
+  },
+  {
+   
+   "Ocupação": "Farinheiro de mandioca independente",
+   "Descrição": "Fabricação de farinha de mandioca e derivados"
+   
+  },
+  {
+   
+   "Ocupação": "Farinheiro de milho independente",
+   "Descrição": "Fabricação de farinha de milho e derivados, exceto óleos de milho"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de amido e féculas de vegetais independente",
+   "Descrição": "Fabricação de amidos e féculas de vegetais"
+   
+  },
+  {
+   
+   "Ocupação": "Moendeiro(a) independente",
+   "Descrição": "Moagem e fabricação de produtos de origem vegetal não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de açúcar mascavo independente",
+   "Descrição": "Fabricação de açúcar em bruto"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de rapadura e melaço independente",
+   "Descrição": "Fabricação de açúcar em bruto"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de pão de queijo congelado independente",
+   "Descrição": "Fabricação de produtos de panificação industrial"
+   
+  },
+  {
+   
+   "Ocupação": "Padeiro(a) independente",
+   "Descrição": "Fabricação de produtos de panificação"
+   
+  },
+  {
+   
+   "Ocupação": "Confeiteiro(a) independente",
+   "Descrição": "Fabricação de produtos de padaria e confeitaria com predominância de produção própria."
+   
+  },
+  {
+   
+   "Ocupação": "Bolacheiro(a)\/biscoiteiro(a) independente",
+   "Descrição": "Fabricação de biscoitos e bolachas"
+   
+  },
+  {
+   
+   "Ocupação": "Chocolateiro(a) independente",
+   "Descrição": "Fabricação de produtos derivados do cacau e de chocolates"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de balas, confeitos e frutas cristalizadas independente",
+   "Descrição": "Fabricação de frutas cristalizadas, balas e semelhantes"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de massas alimentícias independente",
+   "Descrição": "Fabricação de massas alimentícias"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de especiarias independente",
+   "Descrição": "Fabricação de especiarias, molhos, temperos e condimentos"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de alimentos prontos congelados independente",
+   "Descrição": "Fabricação de alimentos e pratos prontos"
+   
+  },
+  {
+   
+   "Ocupação": "Vinagreiro independente",
+   "Descrição": "Fabricação de vinagres"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de gelo comum independente",
+   "Descrição": "Fabricação de gelo comum"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de chá independente",
+   "Descrição": "Fabricação de produtos para infusão (chá, mate, etc.)"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de geléia de mocotó independente",
+   "Descrição": "Fabricação de outros produtos alimentícios não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de produtos de soja independente",
+   "Descrição": "Fabricação de outros produtos alimentícios não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de refrescos, xaropes e pós para refrescos independente",
+   "Descrição": "Fabricação de refrescos, xaropes e pós para refrescos, exceto refrescos de frutas"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de fumo e derivados do fumo independente",
+   "Descrição": "Fabricação de outros produtos do fumo, exceto cigarros, cigarrilhas e charutos"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de fios de algodão independente",
+   "Descrição": "Preparação e fiação de fibras de algodão"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de fios de linho, rami, juta, seda e lã independente",
+   "Descrição": "Preparação e fiação de fibras têxteis naturais, exceto algodão"
+   
+  },
+  {
+   
+   "Ocupação": "Tecelão(ã) de algodão independente",
+   "Descrição": "Tecelagem de fios de algodão"
+   
+  },
+  {
+   
+   "Ocupação": "Tecelão(ã) independente",
+   "Descrição": "Tecelagem de fios de fibras têxteis naturais, exceto algodão"
+   
+  },
+  {
+   
+   "Ocupação": "Estampador(a) de peças do vestuário independente",
+   "Descrição": "Estamparia e texturização em fios, tecidos, artefatos têxteis e peças do vestuário"
+   
+  },
+  {
+   
+   "Ocupação": "Bordadeiro(a) independente",
+   "Descrição": "Outros serviços de acabamento em fios, tecidos, artefatos têxteis e peças do vestuário"
+   
+  },
+  {
+   
+   "Ocupação": "Customizador(a) de roupas independente",
+   "Descrição": "Outros serviços de acabamento em fios, tecidos, artefatos têxteis e peças do vestuário"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de artefatos têxteis para uso doméstico independente",
+   "Descrição": "Fabricação de artefatos têxteis para uso doméstico"
+   
+  },
+  {
+   
+   "Ocupação": "Tapeceiro(a) independente",
+   "Descrição": "Fabricação de artefatos de tapeçaria"
+   
+  },
+  {
+   
+   "Ocupação": "Redeiro(a) independente",
+   "Descrição": "Fabricação de artefatos de cordoaria"
+   
+  },
+  {
+   
+   "Ocupação": "Artesão têxtil",
+   "Descrição": "Fabricação de outros produtos têxteis não especificados"
+   
+  },
+  {
+   
+   "Ocupação": "Rendeiro(a) independente",
+   "Descrição": "Fabricação de outros produtos têxteis não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de roupas íntimas independente",
+   "Descrição": "Confecção de roupas íntimas"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de partes de roupas íntimas – facção independente",
+   "Descrição": "Facção de roupas íntimas"
+   
+  },
+  {
+   
+   "Ocupação": "Costureiro(a) de roupas, exceto sob medida independente",
+   "Descrição": "Confecção de peças de vestuário, exceto roupas íntimas e as confeccionadas sob medida"
+   
+  },
+  {
+   
+   "Ocupação": "Alfaiate independente",
+   "Descrição": "Confecção, sob medida, de peças do vestuário, exceto roupas íntimas"
+   
+  },
+  {
+   
+   "Ocupação": "Costureiro(a) de roupas, sob medida independente",
+   "Descrição": "Confecção, sob medida, de peças do vestuário, exceto roupas íntimas"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de partes de peças do vestuário – facção independente",
+   "Descrição": "Facção de peças do vestuário, exceto roupas íntimas"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de partes de roupas profissionais – facção independente",
+   "Descrição": "Facção de roupas profissionais"
+   
+  },
+  {
+   
+   "Ocupação": "Boneleiro(a) (fabricante de bonés) independente",
+   "Descrição": "Fabricação de acessórios do vestuário, exceto para segurança e proteção"
+   
+  },
+  {
+   
+   "Ocupação": "Chapeleiro(a) independente",
+   "Descrição": "Fabricação de acessórios do vestuário, exceto para segurança e proteção"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de cintos\/cinteiro independente",
+   "Descrição": "Fabricação de acessórios do vestuário, exceto para segurança e proteção"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de meias independente",
+   "Descrição": "Fabricação de meias"
+   
+  },
+  {
+   
+   "Ocupação": "Crocheteiro(a) independente",
+   "Descrição": "Fabricação de artigos do vestuário, produzidos em malharias e tricotagens, exceto meias"
+   
+  },
+  {
+   
+   "Ocupação": "Tricoteiro(a) independente",
+   "Descrição": "Fabricação de artigos do vestuário, produzidos em malharias e tricotagens, exceto meias"
+   
+  },
+  {
+   
+   "Ocupação": "Curtidor de couro independente",
+   "Descrição": "Curtimento e outras preparações de couro"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de bolsas\/bolseiro independente",
+   "Descrição": "Fabricação de artigos para viagem, bolsas e semelhantes de qualquer material"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de malas independente",
+   "Descrição": "Fabricação de artigos para viagem, bolsas e semelhantes de qualquer material"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de mochilas e carteiras independente",
+   "Descrição": "Fabricação de artigos para viagem, bolsas e semelhantes de qualquer material"
+   
+  },
+  {
+   
+   "Ocupação": "Artesão(ã) em couro independente",
+   "Descrição": "Fabricação de artefatos de couro não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Seleiro(a) independente",
+   "Descrição": "Fabricação de artefatos de couro não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de calçados de couro independente",
+   "Descrição": "Fabricação de calçados de couro"
+   
+  },
+  {
+   
+   "Ocupação": "Acabador(a) de calçados independente",
+   "Descrição": "Acabamento de calçados de couro sob contrato"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de calçados de borracha, madeira e tecidos e fibras independente",
+   "Descrição": "Fabricação de calçados de materiais não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de partes para calçados independente",
+   "Descrição": "Fabricação de partes para calçados, de qualquer material"
+   
+  },
+  {
+   
+   "Ocupação": "Carpinteiro(a) independente",
+   "Descrição": "Fabricação de outros artigos de carpintaria para construção"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de embalagens de madeira independente",
+   "Descrição": "Fabricação de artefatos de tanoaria e de embalagens de madeira"
+   
+  },
+  {
+   
+   "Ocupação": "Tanoeiro(a) independente",
+   "Descrição": "Fabricação de artefatos de tanoaria e de embalagens de madeira"
+   
+  },
+  {
+   
+   "Ocupação": "Artesão(ã) em madeira independente",
+   "Descrição": "Fabricação de artefatos diversos de madeira, exceto móveis"
+   
+  },
+  {
+   
+   "Ocupação": "Artesão(ã) em cortiça, bambu e afins independente",
+   "Descrição": "Fabricação de artefatos diversos de cortiça, bambu, palha, vime e outros materiais trançados, exceto móveis"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de papel independente",
+   "Descrição": "Fabricação de papel"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de embalagens de papel independente",
+   "Descrição": "Fabricação de embalagens de papel"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de embalagens de cartolina e papel-cartão independente",
+   "Descrição": "Fabricação de embalagens de cartolina e papel-cartão"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de guardanapos e copos de papel independente",
+   "Descrição": "Fabricação de produtos de papel para uso doméstico e higiênico-sanitário não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Artesão(ã) em papel independente",
+   "Descrição": "Fabricação de produtos de pastas celulósicas, papel, cartolina, papel-cartão e papelão ondulado não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Serigrafista publicitário independente",
+   "Descrição": "Impressão de material para uso publicitário"
+   
+  },
+  {
+   
+   "Ocupação": "Serigrafista independente",
+   "Descrição": "Impressão de material para outros usos"
+   
+  },
+  {
+   
+   "Ocupação": "Clicherista independente",
+   "Descrição": "Serviços de pré-impressão"
+   
+  },
+  {
+   
+   "Ocupação": "Encadernador(a)\/plastificador(a) independente",
+   "Descrição": "Serviços de encadernação e plastificação"
+   
+  },
+  {
+   
+   "Ocupação": "Artesão(ã) em borracha independente",
+   "Descrição": "Fabricação de artefatos de borracha não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Artesão(ã) em plástico independente",
+   "Descrição": "Fabricação de artefatos de material plástico para outros usos não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Artesão(ã) em vidro independente",
+   "Descrição": "Fabricação de artigos de vidro"
+   
+  },
+  {
+   
+   "Ocupação": "Artesão(ã) em cimento independente",
+   "Descrição": "Fabricação de outros artefatos e produtos de concreto, cimento, fibrocimento, gesso e materiais semelhantes"
+   
+  },
+  {
+   
+   "Ocupação": "Artesão(ã) em gesso independente",
+   "Descrição": "Fabricação de outros artefatos e produtos de concreto, cimento, fibrocimento, gesso e materiais semelhantes"
+   
+  },
+  {
+   
+   "Ocupação": "Oleiro(a) independente",
+   "Descrição": "Fabricação de artefatos de cerâmica e barro cozido para uso na construção, exceto azulejos e pisos"
+   
+  },
+  {
+   
+   "Ocupação": "Artesão(ã) em cerâmica independente",
+   "Descrição": "Fabricação de produtos cerâmicos não refratários não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Britador independente",
+   "Descrição": "Britamento de pedras, exceto associado à extração"
+   
+  },
+  {
+   
+   "Ocupação": "Artesão(ã) em mármore, granito, ardósia e outras pedras independente",
+   "Descrição": "Aparelhamento de placas e execução de trabalhos em mármore, granito, ardósia e outras pedras"
+   
+  },
+  {
+   
+   "Ocupação": "Artesão(ã) em louças, vidro e cristal independente",
+   "Descrição": "Decoração, lapidação, gravação, vitrificação e outros trabalhos em cerâmica, louça, vidro e cristal"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de esquadrias metálicas sob encomenda ou não independente",
+   "Descrição": "Fabricação de esquadrias de metal"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de artefatos de funilaria independente",
+   "Descrição": "Produção de artefatos estampados de metal"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de artefatos estampados de metal, sob encomenda ou não independente",
+   "Descrição": "Produção de artefatos estampados de metal"
+   
+  },
+  {
+   
+   "Ocupação": "Soldador(a) \/ brasador(a) independente",
+   "Descrição": "Serviços de usinagem, tornearia e solda"
+   
+  },
+  {
+   
+   "Ocupação": "Torneiro(a) mecânico independente",
+   "Descrição": "Serviços de usinagem, tornearia e solda"
+   
+  },
+  {
+   
+   "Ocupação": "Galvanizador(a) independente",
+   "Descrição": "Serviços de tratamento e revestimento em metais"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de artigos de cutelaria independente",
+   "Descrição": "Fabricação de artigos de cutelaria"
+   
+  },
+  {
+   
+   "Ocupação": "Serralheiro (a), sob encomenda ou não independente",
+   "Descrição": "Fabricação de artigos de serralheria, exceto esquadrias"
+   
+  },
+  {
+   
+   "Ocupação": "Ferramenteiro(a) independente",
+   "Descrição": "Fabricação de ferramentas"
+   
+  },
+  {
+   
+   "Ocupação": "Ferreiro\/forjador independente",
+   "Descrição": "Fabricação de ferramentas"
+   
+  },
+  {
+   
+   "Ocupação": "Armador(a) de ferragens na construção civil independente",
+   "Descrição": "Serviços de confecção de armações metálicas para a construção"
+   
+  },
+  {
+   
+   "Ocupação": "Artesão(ã) em metais independente",
+   "Descrição": "Fabricação de outros produtos de metal não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de luminárias e outros equipamentos de iluminação independente",
+   "Descrição": "Fabricação de luminárias e outros equipamentos de iluminação"
+   
+  },
+  {
+   
+   "Ocupação": "Retificador(a) de motores para veículos automotores independente",
+   "Descrição": "Recondicionamento e recuperação de motores para veículos automotores"
+   
+  },
+  {
+   
+   "Ocupação": "Marceneiro (a) sob encomenda ou não independente",
+   "Descrição": "Fabricação de móveis com predominância de madeira"
+   
+  },
+  {
+   
+   "Ocupação": "Moveleiro(a) de móveis metálicos independente",
+   "Descrição": "Fabricação de móveis com predominância de metal"
+   
+  },
+  {
+   
+   "Ocupação": "Moveleiro(a) independente",
+   "Descrição": "Fabricação de móveis de outros materiais, exceto madeira e metal"
+   
+  },
+  {
+   
+   "Ocupação": "Colchoeiro(a) independente",
+   "Descrição": "Fabricação de colchões"
+   
+  },
+  {
+   
+   "Ocupação": "Lapidador(a) independente",
+   "Descrição": "Lapidação de gemas"
+   
+  },
+  {
+   
+   "Ocupação": "Artesão(ã) em metais preciosos independente",
+   "Descrição": "Fabricação de artefatos de joalheria e ourivesaria"
+   
+  },
+  {
+   
+   "Ocupação": "Cunhador(a) de moedas e medalhas independente",
+   "Descrição": "Cunhagem de moedas e medalhas"
+   
+  },
+  {
+   
+   "Ocupação": "Artesão(ã) de bijuterias independente",
+   "Descrição": "Fabricação de bijuterias e artefatos semelhantes"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de instrumentos musicais independente",
+   "Descrição": "Fabricação de instrumentos musicais, peças e acessórios"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de artefatos para pesca e esporte independente",
+   "Descrição": "Fabricação de artefatos para pesca e esporte"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de brinquedos não eletrônicos independente",
+   "Descrição": "Fabricação de outros brinquedos e jogos recreativos não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de jogos recreativos independente",
+   "Descrição": "Fabricação de outros brinquedos e jogos recreativos não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Vassoureiro(a) independente",
+   "Descrição": "Fabricação de escovas, pincéis e vassouras"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de produtos de tecido não tecido para uso odonto-médico-hospitalar independente",
+   "Descrição": "Fabricação de equipamentos e acessórios para segurança pessoal e profissional"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de guarda-chuvas e similares independente",
+   "Descrição": "Fabricação de guarda-chuvas e similares"
+   
+  },
+  {
+   
+   "Ocupação": "Confeccionador(a) de carimbos independente",
+   "Descrição": "Fabricação de canetas, lápis e outros artigos para escritório"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de letreiros, placas e painéis não luminosos, sob encomenda ou não independente",
+   "Descrição": "Fabricação de letras, letreiros e placas de qualquer material, exceto luminosos"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de painéis e letreiros luminosos independente",
+   "Descrição": "Fabricação de painéis e letreiros luminosos"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de aviamentos para costura independente",
+   "Descrição": "Fabricação de aviamentos para costura"
+   
+  },
+  {
+   
+   "Ocupação": "Fabricante de velas, inclusive decorativas independente",
+   "Descrição": "Fabricação de velas, inclusive decorativas"
+   
+  },
+  {
+   
+   "Ocupação": "Artesão(ã) em outros materiais independente",
+   "Descrição": "Fabricação de produtos diversos não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador(a) de tanques, reservatórios metálicos e caldeiras, exceto para veículos independente",
+   "Descrição": "Manutenção e reparação de tanques, reservatórios metálicos e caldeiras, exceto para veículos"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador(a) de geradores, transformadores e motores elétricos independente",
+   "Descrição": "Manutenção e reparação de geradores, transformadores e motores elétricos"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador(a) de baterias e acumuladores elétricos, exceto para veículos independente",
+   "Descrição": "Manutenção e reparação de baterias e acumuladores elétricos, exceto para veículos"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador(a) de aparelhos e equipamentos para distribuição e controle de energia elétrica independente",
+   "Descrição": "Manutenção e reparação de máquinas, aparelhos e materiais elétricos não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador(a) de máquinas motrizes não elétricas independente",
+   "Descrição": "Manutenção e reparação de máquinas motrizes não elétricas"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador(a) de equipamentos hidráulicos e pneumáticos, exceto válvulas independente",
+   "Descrição": "Manutenção e reparação de equipamentos hidráulicos e pneumáticos, exceto válvulas"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador(a) de máquinas, aparelhos e equipamentos para instalações térmicas independente",
+   "Descrição": "Manutenção e reparação de máquinas, aparelhos e equipamentos para instalações térmicas"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador(a) de máquinas e aparelhos de refrigeração e ventilação para uso industrial e comercial independente",
+   "Descrição": "Manutenção e reparação de máquinas e aparelhos de refrigeração e ventilação para uso industrial e comercial"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador(a) de máquinas de escrever, calcular e de outros equipamentos não eletrônicos para escritório independente",
+   "Descrição": "Manutenção e reparação de máquinas de escrever, calcular e de outros equipamentos não eletrônicos para escritório"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador(a) de balanças industriais e comerciais independente",
+   "Descrição": "Manutenção e reparação de máquinas e equipamentos para uso geral não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador(a) de extintor de incêndio independente",
+   "Descrição": "Manutenção e reparação de máquinas e equipamentos para uso geral não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador(a) de filtros industriais independente",
+   "Descrição": "Manutenção e reparação de máquinas e equipamentos para uso geral não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador(a) de máquinas para bares e lanchonetes independente",
+   "Descrição": "Manutenção e reparação de máquinas e equipamentos para uso geral não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador(a) de máquinas e equipamentos para agricultura e pecuária independente",
+   "Descrição": "Manutenção e reparação de máquinas e equipamentos para agricultura e pecuária"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador(a) de tratores agrícolas independente",
+   "Descrição": "Manutenção e reparação de tratores agrícolas"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador(a) de máquinas e equipamentos para as indústrias de alimentos, bebidas e fumo independente",
+   "Descrição": "Manutenção e reparação de máquinas e equipamentos para as indústrias de alimentos, bebidas e fumo"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador(a) de máquinas e equipamentos para a indústria têxtil, do vestuário, do couro e calçados independente",
+   "Descrição": "Manutenção e reparação de máquinas e equipamentos para a indústria têxtil, do vestuário, do couro e calçados"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador(a) de máquinas e aparelhos para a indústria gráfica independente",
+   "Descrição": "Manutenção e reparação de outras máquinas e equipamentos para usos industriais não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador(a) de máquinas e equipamentos para a indústria da madeira independente",
+   "Descrição": "Manutenção e reparação de outras máquinas e equipamentos para usos industriais não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador(a) de máquinas para encadernação independente",
+   "Descrição": "Manutenção e reparação de outras máquinas e equipamentos para usos industriais não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador(a) de embarcações para esporte e lazer independente",
+   "Descrição": "Manutenção e reparação de embarcações para esporte e lazer"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador(a) de cordas, velames e lonas independente",
+   "Descrição": "Manutenção e reparação de equipamentos e produtos não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador(a) de equipamentos médico-hospitalares não eletrônicos independente",
+   "Descrição": "Manutenção e reparação de equipamentos e produtos não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador(a) de tonéis, barris e paletes de madeira independente",
+   "Descrição": "Manutenção e reparação de equipamentos e produtos não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador(a) de veículos de tração animal independente",
+   "Descrição": "Manutenção e reparação de equipamentos e produtos não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Restaurador(a) de instrumentos musicais históricos independente",
+   "Descrição": "Manutenção e reparação de equipamentos e produtos não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Restaurador(a) de jogos acionados por moedas independente",
+   "Descrição": "Manutenção e reparação de equipamentos e produtos não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Instalador(a) de máquinas e equipamentos industriais independente",
+   "Descrição": "Instalação de máquinas e equipamentos industriais"
+   
+  },
+  {
+   
+   "Ocupação": "Montador(a) de móveis independente",
+   "Descrição": "Serviços de montagem de móveis de qualquer material"
+   
+  },
+  {
+   
+   "Ocupação": "Distribuidor(a) de água potável em caminhão pipa independente",
+   "Descrição": "Distribuição de água por caminhões"
+   
+  },
+  {
+   
+   "Ocupação": "Fosseiro (limpador de fossa) independente",
+   "Descrição": "Atividades relacionadas a esgoto, exceto a gestão de redes"
+   
+  },
+  {
+   
+   "Ocupação": "Carroceiro – coleta de entulhos e resíduos independente",
+   "Descrição": "Coleta de resíduos não perigosos"
+   
+  },
+  {
+   
+   "Ocupação": "Coletor de resíduos não-perigosos independente",
+   "Descrição": "Coleta de resíduos não perigosos"
+   
+  },
+  {
+   
+   "Ocupação": "Reciclador (a) de sucatas de alumínio independente",
+   "Descrição": "Recuperação de sucatas de alumínio"
+   
+  },
+  {
+   
+   "Ocupação": "Reciclador (a) de materiais metálicos, exceto alumínio independente",
+   "Descrição": "Recuperação de materiais metálicos, exceto alumínio"
+   
+  },
+  {
+   
+   "Ocupação": "Reciclador (a) de materiais plásticos independente",
+   "Descrição": "Recuperação de materiais plásticos"
+   
+  },
+  {
+   
+   "Ocupação": "Reciclador(a) de borracha, madeira, papel e vidro independente",
+   "Descrição": "Recuperação de materiais não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Eletricista em residências e estabelecimentos comerciais independente",
+   "Descrição": "Instalação e manutenção elétrica"
+   
+  },
+  {
+   
+   "Ocupação": "Instalador(a) de antenas de tv independente",
+   "Descrição": "Instalação e manutenção elétrica"
+   
+  },
+  {
+   
+   "Ocupação": "Instalador(a) de equipamentos de segurança domiciliar e empresarial, sem prestação de serviços de vigilância e segurança independente",
+   "Descrição": "Instalação e manutenção elétrica"
+   
+  },
+  {
+   
+   "Ocupação": "Bombeiro(a) hidráulico independente",
+   "Descrição": "Instalações hidráulicas, sanitárias e de gás"
+   
+  },
+  {
+   
+   "Ocupação": "Encanador independente",
+   "Descrição": "Instalações hidráulicas, sanitárias e de gás"
+   
+  },
+  {
+   
+   "Ocupação": "Instalador(a) e reparador(a) de sistemas centrais de ar condicionado, de ventilação e refrigeração independente",
+   "Descrição": "Instalação e manutenção de sistemas centrais de ar condicionado, de ventilação e refrigeração"
+   
+  },
+  {
+   
+   "Ocupação": "Instalador(a) de sistema de prevenção contra incêndio independente",
+   "Descrição": "Instalações de sistema de prevenção contra incêndio"
+   
+  },
+  {
+   
+   "Ocupação": "Instalador(a) de painéis publicitários independente",
+   "Descrição": "Instalação de painéis publicitários"
+   
+  },
+  {
+   
+   "Ocupação": "Instalador(a) de equipamentos para orientação à navegação marítima, fluvial e lacustre independente",
+   "Descrição": "Instalação de equipamentos para orientação à navegação marítima, fluvial e lacustre"
+   
+  },
+  {
+   
+   "Ocupação": "Instalador(a) e reparador(a) de elevadores, escadas e esteiras rolantes independente",
+   "Descrição": "Instalação, manutenção e reparação de elevadores, escadas e esteiras rolantes"
+   
+  },
+  {
+   
+   "Ocupação": "Montador(a) e instalador de sistemas e equipamentos de iluminação e sinalização em vias públicas, portos e aeroportos independente",
+   "Descrição": "Montagem e instalação de sistemas e equipamentos de iluminação e sinalização em vias públicas, portos e aeroportos"
+   
+  },
+  {
+   
+   "Ocupação": "Instalador(a) de isolantes acústicos e de vibração independente",
+   "Descrição": "Tratamentos térmicos, acústicos ou de vibração"
+   
+  },
+  {
+   
+   "Ocupação": "Instalador(a) de isolantes térmicos independente",
+   "Descrição": "Tratamentos térmicos, acústicos ou de vibração"
+   
+  },
+  {
+   
+   "Ocupação": "Carpinteiro(a) instalador(a) independente",
+   "Descrição": "Instalação de portas, janelas, tetos, divisórias e armários embutidos de qualquer material"
+   
+  },
+  {
+   
+   "Ocupação": "Gesseiro(a) independente",
+   "Descrição": "Obras de acabamento em gesso e estuque"
+   
+  },
+  {
+   
+   "Ocupação": "Pintor(a) de parede independente",
+   "Descrição": "Serviços de pintura de edifícios em geral"
+   
+  },
+  {
+   
+   "Ocupação": "Azulejista independente",
+   "Descrição": "Aplicação de revestimentos e de resinas em interiores e exteriores"
+   
+  },
+  {
+   
+   "Ocupação": "Calafetador(a) independente",
+   "Descrição": "Aplicação de revestimentos e de resinas em interiores e exteriores"
+   
+  },
+  {
+   
+   "Ocupação": "Colocador(a) de revestimentos independente",
+   "Descrição": "Aplicação de revestimentos e de resinas em interiores e exteriores"
+   
+  },
+  {
+   
+   "Ocupação": "Pastilheiro(a) independente",
+   "Descrição": "Aplicação de revestimentos e de resinas em interiores e exteriores"
+   
+  },
+  {
+   
+   "Ocupação": "Sintequeiro(a) independente",
+   "Descrição": "Aplicação de revestimentos e de resinas em interiores e exteriores"
+   
+  },
+  {
+   
+   "Ocupação": "Vidraceiro de edificações independente",
+   "Descrição": "Outras obras de acabamento da construção"
+   
+  },
+  {
+   
+   "Ocupação": "Pedreiro independente",
+   "Descrição": "Obras de alvenaria"
+   
+  },
+  {
+   
+   "Ocupação": "Poceiro\/cisterneiro\/cacimbeiro independente",
+   "Descrição": "Perfuração e construção de poços de água"
+   
+  },
+  {
+   
+   "Ocupação": "Calheiro (a) independente",
+   "Descrição": "Serviços especializados para construção não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Cerqueiro(a) independente",
+   "Descrição": "Serviços especializados para construção não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Telhador(a) independente",
+   "Descrição": "Serviços especializados para construção não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Mecânico(a) de veículos independente",
+   "Descrição": "Serviços de manutenção e reparação mecânica de veículos automotores"
+   
+  },
+  {
+   
+   "Ocupação": "Vidraceiro de automóveis independente",
+   "Descrição": "Serviços de manutenção e reparação mecânica de veículos automotores"
+   
+  },
+  {
+   
+   "Ocupação": "Funileiro \/ lanterneiro independente",
+   "Descrição": "Serviços de lanternagem ou funilaria e pintura de veículos automotores"
+   
+  },
+  {
+   
+   "Ocupação": "Pintor(a) de automóveis independente",
+   "Descrição": "Serviços de lanternagem ou funilaria e pintura de veículos automotores"
+   
+  },
+  {
+   
+   "Ocupação": "Eletricista de automóveis independente",
+   "Descrição": "Serviços de manutenção e reparação elétrica de veículos automotores"
+   
+  },
+  {
+   
+   "Ocupação": "Lavador(a) e polidor de carro independente",
+   "Descrição": "Serviços de lavagem, lubrificação e polimento de veículos automotores"
+   
+  },
+  {
+   
+   "Ocupação": "Borracheiro(a) independente",
+   "Descrição": "Serviços de borracharia para veículos automotores"
+   
+  },
+  {
+   
+   "Ocupação": "Instalador(a) e reparador (a) de acessórios automotivos independente",
+   "Descrição": "Serviços de instalação, manutenção e reparação de acessórios para veículos automotores"
+   
+  },
+  {
+   
+   "Ocupação": "Capoteiro(a) independente",
+   "Descrição": "Serviços de capotaria"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de peças e acessórios novos para veículos automotores independente",
+   "Descrição": "Comércio a varejo de peças e acessórios novos para veículos automotores"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de peças e acessórios usados para veículos automotores independente",
+   "Descrição": "Comércio a varejo de peças e acessórios usados para veículos automotores"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de pneumáticos e câmaras-de-ar independente",
+   "Descrição": "Comércio a varejo de pneumáticos e câmaras-de-ar"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de peças e acessórios novos para motocicletas e motononetas independente",
+   "Descrição": "Comércio a varejo de peças e acessórios novos para motocicletas e motonetas"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de peças e acessórios usados para motocicletas e motononetas independente",
+   "Descrição": "Comércio a varejo de peças e acessórios usados para motocicletas e motonetas"
+   
+  },
+  {
+   
+   "Ocupação": "Mecânico(a) de motocicletas e motonetas independente",
+   "Descrição": "Manutenção e reparação de motocicletas e motonetas"
+   
+  },
+  {
+   
+   "Ocupação": "Barraqueiro(a) independente",
+   "Descrição": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios – minimercados, mercearias e armazéns"
+   
+  },
+  {
+   
+   "Ocupação": "Merceeiro(a)\/vendeiro(a) independente",
+   "Descrição": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios – minimercados, mercearias e armazéns"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de miudezas e quinquilharias independente",
+   "Descrição": "Lojas de variedades, exceto lojas de departamentos ou magazines"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de produtos de panificação independente",
+   "Descrição": "Padaria e confeitaria com predominância de revenda"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de laticínios independente",
+   "Descrição": "Comércio varejista de laticínios e frios"
+   
+  },
+  {
+   
+   "Ocupação": "Baleiro(a) independente",
+   "Descrição": "Comércio varejista de doces, balas, bombons e semelhantes"
+   
+  },
+  {
+   
+   "Ocupação": "Açougueiro(a) independente",
+   "Descrição": "Comércio varejista de carnes – açougues"
+   
+  },
+  {
+   
+   "Ocupação": "Peixeiro(a) independente",
+   "Descrição": "Peixaria"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de bebidas independente",
+   "Descrição": "Comércio varejista de bebidas"
+   
+  },
+  {
+   
+   "Ocupação": "Abatedor(a) de aves com comercialização do produto independente",
+   "Descrição": "Comércio varejista de hortifrutigranjeiros"
+   
+  },
+  {
+   
+   "Ocupação": "Vendedor(a) de aves vivas, coelhos e outros pequenos animais para alimentação independente",
+   "Descrição": "Comércio varejista de hortifrutigranjeiros"
+   
+  },
+  {
+   
+   "Ocupação": "Verdureiro independente",
+   "Descrição": "Comércio varejista de hortifrutigranjeiros"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de produtos de tabacaria independente",
+   "Descrição": "Tabacaria"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de cestas de café da manhã independente",
+   "Descrição": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de produtos naturais independente",
+   "Descrição": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Quitandeiro(a) independente",
+   "Descrição": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Sorveteiro(a) independente",
+   "Descrição": "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de lubrificantes independente",
+   "Descrição": "Comércio varejista de lubrificantes"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de tintas e materiais para pintura independente",
+   "Descrição": "Comércio varejista de tintas e materiais para pintura"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de material elétrico independente",
+   "Descrição": "Comércio varejista de material elétrico"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de vidros independente",
+   "Descrição": "Comércio varejista de vidros"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de ferragens e ferramentas independente",
+   "Descrição": "Comércio varejista de ferragens e ferramentas"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de madeira e artefatos independente",
+   "Descrição": "Comércio varejista de madeira e artefatos"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de materiais hidráulicos independente",
+   "Descrição": "Comércio varejista de materiais hidráulicos"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de cal, areia, pedra britada, tijolos e telhas independente",
+   "Descrição": "Comércio varejista de cal, areia, pedra britada, tijolos e telhas"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de materiais de construção em geral independente",
+   "Descrição": "Comércio varejista de materiais de construção em geral"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de equipamentos e suprimentos de informática independente",
+   "Descrição": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+   
+  },
+  {
+   
+   "Ocupação": "Recarregador(a) de cartuchos para equipamentos de informática independente",
+   "Descrição": "Recarga de cartuchos para equipamentos de informática"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de equipamentos de telefonia e comunicação independente",
+   "Descrição": "Comércio varejista especializado de equipamentos de telefonia e comunicação"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de eletrodomésticos e equipamentos de áudio e vídeo independente",
+   "Descrição": "Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de móveis independente",
+   "Descrição": "Comércio varejista de móveis"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de artigos de colchoaria independente",
+   "Descrição": "Comércio varejista de artigos de colchoaria"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de artigos de iluminação independente",
+   "Descrição": "Comércio varejista de artigos de iluminação"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de tecidos independente",
+   "Descrição": "Comércio varejista de tecidos"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de artigos de armarinho independente",
+   "Descrição": "Comercio varejista de artigos de armarinho"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de artigos de cama, mesa e banho independente",
+   "Descrição": "Comercio varejista de artigos de cama, mesa e banho"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de instrumentos musicais e acessórios independente",
+   "Descrição": "Comércio varejista especializado de instrumentos musicais e acessórios"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de peças e acessórios para aparelhos eletroeletrônicos para uso doméstico independente",
+   "Descrição": "Comércio varejista especializado de peças e acessórios para aparelhos eletroeletrônicos para uso doméstico, exceto informática e comunicação"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de artigos de tapeçaria, cortinas e persianas independente",
+   "Descrição": "Comércio varejista de artigos de tapeçaria, cortinas e persianas"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de artigos de cutelaria independente",
+   "Descrição": "Comércio varejista de outros artigos de uso pessoal e doméstico não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de artigos para habitação independente",
+   "Descrição": "Comércio varejista de outros artigos de uso pessoal e doméstico não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de sistema de segurança residencial independente",
+   "Descrição": "Comércio varejista de outros artigos de uso pessoal e doméstico não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de toldos e papel de parede independente",
+   "Descrição": "Comércio varejista de outros artigos de uso pessoal e doméstico não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Livreiro(a) independente",
+   "Descrição": "Comércio varejista de livros"
+   
+  },
+  {
+   
+   "Ocupação": "Jornaleiro(a) independente",
+   "Descrição": "Comércio varejista de jornais e revistas"
+   
+  },
+  {
+   
+   "Ocupação": "Papeleiro(a) independente",
+   "Descrição": "Comércio varejista de artigos de papelaria"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de discos, cds, dvds e fitas independente",
+   "Descrição": "Comércio varejista de discos, cds, dvds e fitas"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de brinquedos e artigos recreativos independente",
+   "Descrição": "Comércio varejista de brinquedos e artigos recreativos"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de artigos esportivos independente",
+   "Descrição": "Comércio varejista de artigos esportivos"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de bicicletas e triciclos; peças e acessórios independente",
+   "Descrição": "Comércio varejista de bicicletas e triciclos; peças e acessórios"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de artigos de caça, pesca e camping independente",
+   "Descrição": "Comércio varejista de artigos de caça, pesca e camping"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de cosméticos e artigos de perfumaria independente",
+   "Descrição": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de produtos de higiene pessoal independente",
+   "Descrição": "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de artigos médicos e ortopédicos independente",
+   "Descrição": "Comércio varejista de artigos médicos e ortopédicos"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de artigos de óptica independente",
+   "Descrição": "Comércio varejista de artigos de óptica"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de artigos do vestuário e acessórios independente",
+   "Descrição": "Comércio varejista de artigos do vestuário e acessórios"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de calçados independente",
+   "Descrição": "Comércio varejista de calçados"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de artigos de viagem independente",
+   "Descrição": "Comércio varejista de artigos de viagem"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de artigos de joalheria independente",
+   "Descrição": "Comércio varejista de artigos de joalheria"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de artigos de relojoaria independente",
+   "Descrição": "Comércio varejista de artigos de relojoaria"
+   
+  },
+  {
+   
+   "Ocupação": "Antiquário(a) independente",
+   "Descrição": "Comércio varejista de antiguidades"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de artigos usados independente",
+   "Descrição": "Comércio varejista de outros artigos usados"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de suvenires, bijuterias e artesanatos independente",
+   "Descrição": "Comércio varejista de suvenires, bijuterias e artesanatos"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de plantas, flores naturais, vasos e adubos independente",
+   "Descrição": "Comércio varejista de plantas e flores naturais"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de objetos de arte independente",
+   "Descrição": "Comércio varejista de objetos de arte"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de artigos e alimentos para animais de estimação (pet shop) independente (não inclui a venda de medicamentos)",
+   "Descrição": "Comércio varejista de animais vivos e de artigos e alimentos para animais de estimação"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de inseticidas e raticidas independente",
+   "Descrição": "Comércio varejista de produtos saneantes domissanitários"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de produtos para piscinas independente",
+   "Descrição": "Comércio varejista de produtos saneantes domissanitários"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de produtos de limpeza independente",
+   "Descrição": "Comércio varejista de produtos saneantes domissanitários"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de equipamentos para escritório independente",
+   "Descrição": "Comércio varejista de equipamentos para escritório"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de artigos fotográficos e para filmagem independente",
+   "Descrição": "Comércio varejista de artigos fotográficos e para filmagem"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de artigos de bebê independente",
+   "Descrição": "Comércio varejista de outros produtos não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de artigos eróticos independente",
+   "Descrição": "Comércio varejista de outros produtos não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de artigos funerários independente",
+   "Descrição": "Comércio varejista de outros produtos não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de carvão e lenha independente",
+   "Descrição": "Comércio varejista de outros produtos não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de embalagens independente",
+   "Descrição": "Comércio varejista de outros produtos não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de flores, plantas e frutas artificiais independente",
+   "Descrição": "Comércio varejista de outros produtos não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de molduras e quadros independente",
+   "Descrição": "Comércio varejista de outros produtos não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de perucas independente",
+   "Descrição": "Comércio varejista de outros produtos não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de produtos para festas e natal independente",
+   "Descrição": "Comércio varejista de outros produtos não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de produtos religiosos independente",
+   "Descrição": "Comércio varejista de outros produtos não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Comerciante de redes para dormir independente",
+   "Descrição": "Comércio varejista de outros produtos não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Mototaxista independente",
+   "Descrição": "Serviço de táxi"
+   
+  },
+  {
+   
+   "Ocupação": "Taxista independente",
+   "Descrição": "Serviço de táxi"
+   
+  },
+  {
+   
+   "Ocupação": "Transportador(a) escolar independente",
+   "Descrição": "Transporte escolar"
+   
+  },
+  {
+   
+   "Ocupação": "Transportador(a) municipal de passageiros sob frete independente",
+   "Descrição": "Transporte rodoviário coletivo de passageiros, sob regime de fretamento, municipal"
+   
+  },
+  {
+   
+   "Ocupação": "Transportador(a) intermunicipal de passageiros sob frete em região metropolitana independente",
+   "Descrição": "Transporte rodoviário coletivo de passageiros, sob regime de fretamento, intermunicipal, interestadual e internacional"
+   
+  },
+  {
+   
+   "Ocupação": "Organizador(a) de excursões em veículo próprio, municipal independente",
+   "Descrição": "Organização de excursões em veículos rodoviários próprios, municipal"
+   
+  },
+  {
+   
+   "Ocupação": "Carroceiro – transporte de carga independente",
+   "Descrição": "Transporte rodoviário de carga, exceto produtos perigosos e mudanças, municipal"
+   
+  },
+  {
+   
+   "Ocupação": "Transportador(a) municipal de cargas não perigosas(carreto) independente",
+   "Descrição": "Transporte rodoviário de carga, exceto produtos perigosos e mudanças, municipal"
+   
+  },
+  {
+   
+   "Ocupação": "Caminhoneiro (a) de cargas não perigosas, intermunicipal e interestadual independente",
+   "Descrição": "Transporte rodoviário de carga, exceto produtos perigosos e mudanças, intermunicipal, interestadual e internacional"
+   
+  },
+  {
+   
+   "Ocupação": "Carroceiro – transporte de mudança independente",
+   "Descrição": "Transporte rodoviário de mudanças"
+   
+  },
+  {
+   
+   "Ocupação": "Transportador(a) de mudanças independente",
+   "Descrição": "Transporte rodoviário de mudanças"
+   
+  },
+  {
+   
+   "Ocupação": "Transportador(a) marítimo de carga independente",
+   "Descrição": "Transporte marítimo de cabotagem – carga"
+   
+  },
+  {
+   
+   "Ocupação": "Transportador(a) municipal hidroviário de cargas independente",
+   "Descrição": "Transporte por navegação interior de carga, municipal, exceto travessia"
+   
+  },
+  {
+   
+   "Ocupação": "Transportador(a) municipal de travessia por navegação independente",
+   "Descrição": "Transporte por navegação de travessia, municipal"
+   
+  },
+  {
+   
+   "Ocupação": "Transportador(a) intermunicipal e interestadual de travessia por navegação fluvial independente",
+   "Descrição": "Transporte por navegação de travessia, intermunicipal, interestadual e internacional"
+   
+  },
+  {
+   
+   "Ocupação": "Transportador(a) aquaviário para passeios turísticos independente",
+   "Descrição": "Transporte aquaviário para passeios turísticos"
+   
+  },
+  {
+   
+   "Ocupação": "Barqueiro(a) independente",
+   "Descrição": "Outros transportes aquaviários não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Guardador(a) de móveis independente",
+   "Descrição": "Guarda-móveis"
+   
+  },
+  {
+   
+   "Ocupação": "Carregador (veículos de transportes terrestres) independente",
+   "Descrição": "Carga e descarga"
+   
+  },
+  {
+   
+   "Ocupação": "Proprietário(a) de estacionamento de veículos independente",
+   "Descrição": "Estacionamento de veículos"
+   
+  },
+  {
+   
+   "Ocupação": "Guincheiro independente (reboque de veículos)",
+   "Descrição": "Serviços de reboque de veículos"
+   
+  },
+  {
+   
+   "Ocupação": "Agente de correio franqueado e permissionário independente",
+   "Descrição": "Atividades de franqueadas do correio nacional"
+   
+  },
+  {
+   
+   "Ocupação": "Entregador de malotes independente",
+   "Descrição": "Serviços de malote não realizados pelo correio nacional"
+   
+  },
+  {
+   
+   "Ocupação": "Bikeboy (ciclista mensageiro) independente",
+   "Descrição": "Serviços de entrega rápida"
+   
+  },
+  {
+   
+   "Ocupação": "Motoboy independente",
+   "Descrição": "Serviços de entrega rápida"
+   
+  },
+  {
+   
+   "Ocupação": "Proprietário(a) de albergue não assistencial independente",
+   "Descrição": "Albergues, exceto assistenciais"
+   
+  },
+  {
+   
+   "Ocupação": "Proprietário(a) de camping independente",
+   "Descrição": "Campings"
+   
+  },
+  {
+   
+   "Ocupação": "Proprietário(a) de pensão independente",
+   "Descrição": "Pensões (alojamento)"
+   
+  },
+  {
+   
+   "Ocupação": "Proprietário(a) de hospedaria independente",
+   "Descrição": "Outros alojamentos não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Proprietário(a) de restaurante independente",
+   "Descrição": "Restaurantes e similares"
+   
+  },
+  {
+   
+   "Ocupação": "Proprietário(a) de casa de chá independente",
+   "Descrição": "Lanchonetes, casas de chá, de sucos e similares"
+   
+  },
+  {
+   
+   "Ocupação": "Proprietário(a) de casa de sucos independente",
+   "Descrição": "Lanchonetes, casas de chá, de sucos e similares"
+   
+  },
+  {
+   
+   "Ocupação": "Proprietário(a) de lanchonete independente",
+   "Descrição": "Lanchonetes, casas de chá, de sucos e similares"
+   
+  },
+  {
+   
+   "Ocupação": "Proprietário(a) de bar e congêneres, sem entretenimento, independente",
+   "Descrição": "Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento"
+   
+  },
+  {
+   
+   "Ocupação": "Proprietário(a) de bar e congêneres, com entretenimento, independente",
+   "Descrição": "Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento."
+  },
+  {
+   
+   "Ocupação": "Churrasqueiro(a) ambulante independente",
+   "Descrição": "Serviços ambulantes de alimentação"
+   
+  },
+  {
+   
+   "Ocupação": "Pipoqueiro(a) independente",
+   "Descrição": "Serviços ambulantes de alimentação"
+   
+  },
+  {
+   
+   "Ocupação": "Quitandeiro(a) ambulante independente",
+   "Descrição": "Serviços ambulantes de alimentação"
+   
+  },
+  {
+   
+   "Ocupação": "Sorveteiro(a) ambulante independente",
+   "Descrição": "Serviços ambulantes de alimentação"
+   
+  },
+  {
+   
+   "Ocupação": "Vendedor(a) ambulante de produtos alimentícios independente",
+   "Descrição": "Serviços ambulantes de alimentação"
+   
+  },
+  {
+   
+   "Ocupação": "Fornecedor(a) de alimentos preparados para empresas independente",
+   "Descrição": "Fornecimento de alimentos preparados preponderantemente para empresas"
+   
+  },
+  {
+   
+   "Ocupação": "Churrasqueiro(a) em domicílio independente",
+   "Descrição": "Serviços de alimentação para eventos e recepções – bufê"
+   
+  },
+  {
+   
+   "Ocupação": "Pizzaiolo(a) em domicílio independente",
+   "Descrição": "Serviços de alimentação para eventos e recepções – bufê"
+   
+  },
+  {
+   
+   "Ocupação": "Proprietário(a) de cantinas independente",
+   "Descrição": "Cantinas – serviços de alimentação privativos"
+   
+  },
+  {
+   
+   "Ocupação": "Cozinheiro(a) que fornece refeições prontas e embaladas para consumo independente",
+   "Descrição": "Fornecimento de alimentos preparados preponderantemente para consumo domiciliar"
+   
+  },
+  {
+   
+   "Ocupação": "Doceiro(a) independente",
+   "Descrição": "Fornecimento de alimentos preparados preponderantemente para consumo domiciliar"
+   
+  },
+  {
+   
+   "Ocupação": "Marmiteiro(a) independente",
+   "Descrição": "Fornecimento de alimentos preparados preponderantemente para consumo domiciliar"
+   
+  },
+  {
+   
+   "Ocupação": "Salgadeiro(a) independente",
+   "Descrição": "Fornecimento de alimentos preparados preponderantemente para consumo domiciliar"
+   
+  },
+  {
+   
+   "Ocupação": "Editor(a) de livros independente",
+   "Descrição": "Edição de livros"
+   
+  },
+  {
+   
+   "Ocupação": "Editor(a) de jornais diários independente",
+   "Descrição": "Editor de jornais diários"
+   
+  },
+  {
+   
+   "Ocupação": "Editor(a) de jornais não diários independente",
+   "Descrição": "Editor de jornais não diários"
+   
+  },
+  {
+   
+   "Ocupação": "Editor(a) de revistas independente",
+   "Descrição": "Edição de revistas"
+   
+  },
+  {
+   
+   "Ocupação": "Editor(a) de lista de dados e de outras informações independente",
+   "Descrição": "Edição de cadastros, listas e de outros produtos gráficos"
+   
+  },
+  {
+   
+   "Ocupação": "Dublador(a) independente",
+   "Descrição": "Serviços de dublagem"
+   
+  },
+  {
+   
+   "Ocupação": "Editor(a) de vídeo independente",
+   "Descrição": "Atividades de pós-produção cinematográfica, de vídeos e de programas de televisão não especificadas anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Instalador(a) de rede de computadores independente",
+   "Descrição": "Outras atividades de telecomunicações não especificadas anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Apurador(a), coletor(a) e fornecedor(a) de recortes de matérias publicadas em jornais e revistas independente",
+   "Descrição": "Outras atividades de prestação de serviços de informação não especificadas anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Panfleteiro(a) independente",
+   "Descrição": "Promoção de vendas"
+   
+  },
+  {
+   
+   "Ocupação": "Promotor(a) de vendas independente",
+   "Descrição": "Promoção de vendas"
+   
+  },
+  {
+   
+   "Ocupação": "Bike propagandista independente",
+   "Descrição": "Outras atividades de publicidade não especificadas anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Proprietário(a) de carro de som para fins publicitários independente",
+   "Descrição": "Outras atividades de publicidade não especificadas anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Fotógrafo(a) independente",
+   "Descrição": "Atividades de produção de fotografias, exceto aérea e submarina"
+   
+  },
+  {
+   
+   "Ocupação": "Fotógrafo(a) aéreo independente",
+   "Descrição": "Atividades de produção de fotografias aéreas e submarinas"
+   
+  },
+  {
+   
+   "Ocupação": "Fotógrafo(a) submarino independente",
+   "Descrição": "Atividades de produção de fotografias aéreas e submarinas"
+   
+  },
+  {
+   
+   "Ocupação": "Revelador(a) fotográfico independente",
+   "Descrição": "Laboratórios fotográficos"
+   
+  },
+  {
+   
+   "Ocupação": "Filmador(a) independente",
+   "Descrição": "Filmagem de festas e eventos"
+   
+  },
+  {
+   
+   "Ocupação": "Mergulhador(a) (escafandrista) independente",
+   "Descrição": "Escafandria e mergulho"
+   
+  },
+  {
+   
+   "Ocupação": "Locador(a) de motocicleta, sem condutor, independente",
+   "Descrição": "Locação de outros meios de transporte não especificados anteriormente, sem condutor"
+   
+  },
+  {
+   
+   "Ocupação": "Locador(a) de bicicletas, independente",
+   "Descrição": "Aluguel de equipamentos recreativos e esportivos"
+   
+  },
+  {
+   
+   "Ocupação": "Locador(a) de equipamentos recreativos e esportivos independente",
+   "Descrição": "Aluguel de equipamentos recreativos e esportivos"
+   
+  },
+  {
+   
+   "Ocupação": "Locador(a) de material e equipamento esportivo, independente",
+   "Descrição": "Aluguel de equipamentos recreativos e esportivos"
+   
+  },
+  {
+   
+   "Ocupação": "Locador(a) de fitas de vídeo, dvds e similares independente",
+   "Descrição": "Aluguel de fitas de vídeo, dvds e similares"
+   
+  },
+  {
+   
+   "Ocupação": "Locador(a) de vídeo games, independente",
+   "Descrição": "Aluguel de fitas de video, dvds e similares"
+   
+  },
+  {
+   
+   "Ocupação": "Locador(a) de objetos do vestuário, jóias e acessórios independente",
+   "Descrição": "Aluguel de objetos do vestuário, jóias e acessórios"
+   
+  },
+  {
+   
+   "Ocupação": "Locador(a) de aparelhos de jogos eletrônicos independente",
+   "Descrição": "Aluguel de aparelhos de jogos eletrônicos"
+   
+  },
+  {
+   
+   "Ocupação": "Locador(a) de móveis e utensílios, inclusive para festas independente",
+   "Descrição": "Aluguel de móveis, utensílios e aparelhos de uso doméstico e pessoal; instrumentos musicais"
+   
+  },
+  {
+   
+   "Ocupação": "Locador(a) de instrumentos musicais independente",
+   "Descrição": "Aluguel de móveis, utensílios e aparelhos de uso doméstico e pessoal; instrumentos musicais"
+   
+  },
+  {
+   
+   "Ocupação": "Locador(a) de material médico independente",
+   "Descrição": "Aluguel de material médico"
+   
+  },
+  {
+   
+   "Ocupação": "Locador(a) de livros, revistas, plantas e flores independente",
+   "Descrição": "Aluguel de outros objetos pessoais e domésticos não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Locador(a) de máquinas e equipamentos agrícolas sem operador independente",
+   "Descrição": "Aluguel de máquinas e equipamentos agrícolas sem operador"
+   
+  },
+  {
+   
+   "Ocupação": "Locador(a) de máquinas e equipamentos para construção sem operador, exceto andaimes independente",
+   "Descrição": "Aluguel de máquinas e equipamentos para construção sem operador, exceto andaimes"
+   
+  },
+  {
+   
+   "Ocupação": "Locador de andaimes independente",
+   "Descrição": "Aluguel de andaimes"
+   
+  },
+  {
+   
+   "Ocupação": "Locador(a) de máquinas e equipamentos para escritório independente",
+   "Descrição": "Aluguel de máquinas e equipamentos para escritório"
+   
+  },
+  {
+   
+   "Ocupação": "Locador(a) de equipamentos científicos, médicos e hospitalares, sem operador independente",
+   "Descrição": "Aluguel de equipamentos científicos, médicos e hospitalares, sem operador"
+   
+  },
+  {
+   
+   "Ocupação": "Locador(a) de palcos, coberturas e outras estruturas de uso temporário, exceto andaimes independente",
+   "Descrição": "Aluguel de palcos, coberturas e outras estruturas de uso temporário, exceto andaimes"
+   
+  },
+  {
+   
+   "Ocupação": "Locador(a) de outras máquinas e equipamentos comerciais e industriais não especificados anteriormente, sem operador independente",
+   "Descrição": "Aluguel de outras máquinas e equipamentos comerciais e industriais não especificados anteriormente, sem operador"
+   
+  },
+  {
+   
+   "Ocupação": "Agente de viagens independente",
+   "Descrição": "Agências de viagens"
+   
+  },
+  {
+   
+   "Ocupação": "Guia de turismo independente",
+   "Descrição": "Operadores turísticos"
+   
+  },
+  {
+   
+   "Ocupação": "Promotor(a) de turismo local independente",
+   "Descrição": "Serviços de reservas e outros serviços de turismo não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Adestrador(a) de cães de guarda independente",
+   "Descrição": "Serviços de adestramento de cães de guarda"
+   
+  },
+  {
+   
+   "Ocupação": "Instalador(a) e reparador de cofres, trancas e travas de segurança independente",
+   "Descrição": "Outras atividades de serviços de segurança"
+   
+  },
+  {
+   
+   "Ocupação": "Piscineiro(a) independente",
+   "Descrição": "Atividades de limpeza não especificadas anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Jardineiro(a) independente",
+   "Descrição": "Atividades paisagísticas"
+   
+  },
+  {
+   
+   "Ocupação": "Fotocopiador(a) independente",
+   "Descrição": "Fotocópias"
+   
+  },
+  {
+   
+   "Ocupação": "Digitador(a) independente",
+   "Descrição": "Preparação de documentos e serviços especializados de apoio administrativo não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Promotor(a) de eventos independente",
+   "Descrição": "Serviços de organização de feiras, congressos, exposições e festas"
+   
+  },
+  {
+   
+   "Ocupação": "Proprietário(a) de casas de festas e eventos independente",
+   "Descrição": "Casas de festas e eventos"
+   
+  },
+  {
+   
+   "Ocupação": "Cobrador(a) de dívidas independente",
+   "Descrição": "Atividades de cobranças e informações cadastrais"
+   
+  },
+  {
+   
+   "Ocupação": "Envasador(a) e empacotador(a) independente",
+   "Descrição": "Envasamento e empacotamento sob contrato"
+   
+  },
+  {
+   
+   "Ocupação": "Gravador(a) de carimbos independente",
+   "Descrição": "Serviços de gravação de carimbos, exceto confecção"
+   
+  },
+  {
+   
+   "Ocupação": "Proprietário(a) de sala de acesso à internet independente",
+   "Descrição": "Salas de acesso à internet"
+   
+  },
+  {
+   
+   "Ocupação": "Cartazista, pintor de faixas publicitárias e de letras independente",
+   "Descrição": "Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Instrutor(a) de artes cênicas independente",
+   "Descrição": "Ensino de artes cênicas, exceto dança"
+   
+  },
+  {
+   
+   "Ocupação": "Instrutor(a) de música independente",
+   "Descrição": "Ensino de música"
+   
+  },
+  {
+   
+   "Ocupação": "Instrutor(a) de arte e cultura em geral independente",
+   "Descrição": "Ensino de arte e cultura não especificado anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Instrutor(a) de idiomas independente",
+   "Descrição": "Ensino de idiomas"
+   
+  },
+  {
+   
+   "Ocupação": "Instrutor(a) de informática independente",
+   "Descrição": "Treinamento em informática"
+   
+  },
+  {
+   
+   "Ocupação": "Instrutor(a) de cursos gerenciais independente",
+   "Descrição": "Treinamento em desenvolvimento profissional e gerencial"
+   
+  },
+  {
+   
+   "Ocupação": "Instrutor(a) de cursos preparatórios independente",
+   "Descrição": "Cursos preparatórios para concursos"
+   
+  },
+  {
+   
+   "Ocupação": "Professor(a) particular independente",
+   "Descrição": "Outras atividades de ensino não especificadas anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Cuidador(a) de idosos e enfermos independente",
+   "Descrição": "Atividades de fornecimento de infra-estrutura de apoio e assistência a paciente no domicílio"
+   
+  },
+  {
+   
+   "Ocupação": "Humorista e contador de histórias independente",
+   "Descrição": "Produção teatral"
+   
+  },
+  {
+   
+   "Ocupação": "Cantor(a)\/músico(a) independente",
+   "Descrição": "Produção musical"
+   
+  },
+  {
+   
+   "Ocupação": "Disc jockey (dj) ou video jockey (vj) independente",
+   "Descrição": "Atividades de sonorização e de iluminação"
+   
+  },
+  {
+   
+   "Ocupação": "Técnico(a) de sonorização e de iluminação independente",
+   "Descrição": "Atividades de sonorização e de iluminação"
+   
+  },
+  {
+   
+   "Ocupação": "Restaurador(a) de obras de arte independente",
+   "Descrição": "Restauração de obras de arte"
+   
+  },
+  {
+   
+   "Ocupação": "Proprietário(a) de salão de jogos de sinuca e bilhar independente",
+   "Descrição": "Exploração de jogos de sinuca, bilhar e similares"
+   
+  },
+  {
+   
+   "Ocupação": "Proprietário(a) de fliperama independente",
+   "Descrição": "Exploração de jogos eletrônicos recreativos"
+   
+  },
+  {
+   
+   "Ocupação": "Animador(a) de festas independente",
+   "Descrição": "Outras atividades de recreação e lazer não especificadas anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Mágico(a) independente",
+   "Descrição": "Outras atividades de recreação e lazer não especificadas anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Técnico(a) de manutenção de computador independente",
+   "Descrição": "Reparação e manutenção de computadores e de equipamentos periféricos"
+   
+  },
+  {
+   
+   "Ocupação": "Técnico(a) de manutenção de telefonia independente",
+   "Descrição": "Reparação e manutenção de equipamentos de comunicação"
+   
+  },
+  {
+   
+   "Ocupação": "Técnico(a) de manutenção de eletrodomésticos independente",
+   "Descrição": "Reparação e manutenção de equipamentos eletroeletrônicos de uso pessoal e doméstico"
+   
+  },
+  {
+   
+   "Ocupação": "Sapateiro(a)",
+   "Descrição": "Reparação de calçados, de bolsas e artigos de viagem"
+   
+  },
+  {
+   
+   "Ocupação": "Chaveiro(a) independente",
+   "Descrição": "Chaveiros"
+   
+  },
+  {
+   
+   "Ocupação": "Relojoeiro(a) independente",
+   "Descrição": "Reparação de relógios"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador(a) de bicicleta independente",
+   "Descrição": "Reparação de bicicletas, triciclos e outros veículos não motorizados"
+   
+  },
+  {
+   
+   "Ocupação": "Estofador(a) independente",
+   "Descrição": "Reparação de artigos do mobiliário"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador (a) de artigos de tapeçaria independente",
+   "Descrição": "Reparação de artigos do mobiliário"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador(a) de móveis independente",
+   "Descrição": "Reparação de artigos do mobiliário"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador(a) de toldos e persianas independente",
+   "Descrição": "Reparação de artigos do mobiliário"
+   
+  },
+  {
+   
+   "Ocupação": "Ourives independente",
+   "Descrição": "Reparação de jóias"
+   
+  },
+  {
+   
+   "Ocupação": "Amolador(a) de artigos de cutelaria independente",
+   "Descrição": "Reparação e manutenção de outros objetos e equipamentos pessoais e domésticos não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador(a) de artigos e acessórios do vestuário independente",
+   "Descrição": "Reparação e manutenção de outros objetos e equipamentos pessoais e domésticos não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador(a) de brinquedos independente",
+   "Descrição": "Reparação e manutenção de outros objetos e equipamentos pessoais e domésticos não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador(a) de equipamentos esportivos independente",
+   "Descrição": "Reparação e manutenção de outros objetos e equipamentos pessoais e domésticos não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador(a) de guarda chuva e sombrinhas independente",
+   "Descrição": "Reparação e manutenção de outros objetos e equipamentos pessoais e domésticos não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador(a) de instrumentos musicais independente",
+   "Descrição": "Reparação e manutenção de outros objetos e equipamentos pessoais e domésticos não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Reparador(a) de panelas (paneleiro) independente",
+   "Descrição": "Reparação e manutenção de outros objetos e equipamentos pessoais e domésticos não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Restaurador(a) de livros ndependente",
+   "Descrição": "Reparação e manutenção de outros objetos e equipamentos pessoais e domésticos não especificados anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Lavadeiro(a) de roupas independente",
+   "Descrição": "Lavanderias"
+   
+  },
+  {
+   
+   "Ocupação": "Tintureiro(a) independente",
+   "Descrição": "Tinturarias"
+   
+  },
+  {
+   
+   "Ocupação": "Lavadeiro(a) de roupas profissionais independente",
+   "Descrição": "Toalheiros"
+   
+  },
+  {
+   
+   "Ocupação": "Barbeiro independente",
+   "Descrição": "Cabeleireiros, manicure e pedicure"
+   
+  },
+  {
+   
+   "Ocupação": "Cabeleireiro(a) independente",
+   "Descrição": "Cabeleireiros, manicure e pedicure"
+   
+  },
+  {
+   
+   "Ocupação": "Manicure\/pedicure independente",
+   "Descrição": "Cabeleireiros, manicure e pedicure"
+   
+  },
+  {
+   
+   "Ocupação": "Depilador(a) independente",
+   "Descrição": "Atividades de estética e outros serviços de cuidados com a beleza"
+   
+  },
+  {
+   
+   "Ocupação": "Esteticista independente",
+   "Descrição": "Atividades de estética e outros serviços de cuidados com a beleza"
+   
+  },
+  {
+   
+   "Ocupação": "Maquiador(a) independente",
+   "Descrição": "Atividades de estética e outros serviços de cuidados com a beleza"
+   
+  },
+  {
+   
+   "Ocupação": "Agente funerário independente",
+   "Descrição": "Serviços de funerárias"
+   
+  },
+  {
+   
+   "Ocupação": "Agente matrimonial independente",
+   "Descrição": "Agências matrimoniais"
+   
+  },
+  {
+   
+   "Ocupação": "Colocador(a) de piercing independente",
+   "Descrição": "Serviços de tatuagem e colocação de piercing"
+   
+  },
+  {
+   
+   "Ocupação": "Tatuador(a) independente",
+   "Descrição": "Serviços de tatuagem e colocação de piercing"
+   
+  },
+  {
+   
+   "Ocupação": "Adestrador(a) de animais independente",
+   "Descrição": "Alojamento de animais domésticos"
+   
+  },
+  {
+   
+   "Ocupação": "Esteticista de animais domésticos independente",
+   "Descrição": "Higiene e embelezamento de animais domésticos"
+   
+  },
+  {
+   
+   "Ocupação": "Tosador(a) de animais domésticos independente",
+   "Descrição": "Higiene e embelezamento de animais domésticos"
+   
+  },
+  {
+   
+   "Ocupação": "Banhista de animais domésticos independente",
+   "Descrição": "Higiene e embelezamento de animais domésticos"
+   
+  },
+  {
+   
+   "Ocupação": "Cuidador(a) de animais (pet sitter) independente",
+   "Descrição": "Higiene e embelezamento de animais"
+   
+  },
+  {
+   
+   "Ocupação": "Astrólogo(a) independente",
+   "Descrição": "Outras atividades de serviços pessoais não especificadas anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Carregador de malas independente",
+   "Descrição": "Outras atividades de serviços pessoais não especificadas anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Engraxate independente",
+   "Descrição": "Outras atividades de serviços pessoais não especificadas anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Lavador(a) de estofado e sofá independente",
+   "Descrição": "Outras atividades de serviços pessoais não especificadas anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Locutor(a) de mensagens fonadas e ao vivo independente",
+   "Descrição": "Outras atividades de serviços pessoais não especificadas anteriormente"
+   
+  },
+  {
+   
+   "Ocupação": "Diarista independente",
+   "Descrição": "Serviços domésticos"
+   
+  }
+ ]
