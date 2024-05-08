@@ -34,6 +34,7 @@ $ npm run build:linux
 ```
 Para a utilização das imagens - As mesmas foram armazenadas no cloudinary para conseguir modificar de forma externa sem problemas
 o modo para utilizar segue o seguinte template
+
  const cld = new Cloudinary({
     cloud: {
       cloudName: "dfgbasaxa"
