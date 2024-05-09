@@ -25,23 +25,24 @@ export const PaginaLogin = () => {
     }
   };
 
+
   const handleLogin = (e) => {
     e.preventDefault();
     fetch('http://localhost:5000/Usuario')
       .then(response => response.json())
       .then(data => {
-        // Verifique se há um usuário com o nome de usuário e senha fornecidos
+       
         const user = data.find(user => user.telefone === username && user.senha === password);
         if (user) {
           // Se o usuário for encontrado, faça algo (por exemplo, definir o estado de isLoggedIn como true)
           setIsLoggedIn(true);
         } else {
-          // Se o usuário não for encontrado, faça algo (por exemplo, exibir uma mensagem de erro)
+          // Se o usuário não for encontrado, faça algo exibir -> erro
           setcorretLogin('block');
         }
       })
       .catch(error => {
-        // Tratar erros de solicitação, se houver
+        // Tratar erros de solicitação, se acontecer
         console.error('Erro ao buscar dados de usuário:', error);
       });
   };
@@ -50,6 +51,7 @@ export const PaginaLogin = () => {
     if (ClickLogIn == false) {
       setClickLogIn(true)
     }
+
   }
 
   return (
@@ -76,6 +78,7 @@ export const PaginaLogin = () => {
                     <img src={cld.image(`imagesLogin/Debitoautomatico`).toURL()} className="w-32 animate-bounce" alt="Icone debito automatico" />
                   </div>
                 </div>
+
               </div>
 
               <div className="flex flex-col items-center justify-center bg-white col-span-1 h-screen ">
@@ -112,6 +115,7 @@ export const PaginaLogin = () => {
                     className="w-56 bg-sky-400 rounded-md mt-2 text-white p-1"
                     onClick={handleLogin}
                   />
+
                 </form>
 
                 <div className={`${corretLogin} text-red-500`} >
