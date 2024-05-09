@@ -91,6 +91,7 @@ export const Cadastrar = () => {
 
                         <label htmlFor="sexo" className="text-2xl">Sexo</label>
                         <select name="sexo" value={formData.sexo} onChange={handleInputChange} className=" border rounded-md h-9 bg-transparent border-zinc-400" required>
+                            <option value="" >Selecione uma opção</option>
                             <option value="masculino" >Masculino</option>
                             <option value="feminino">Feminino</option>
                         </select>
