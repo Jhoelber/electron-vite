@@ -1,0 +1,21 @@
+{
+  "Usuario": [
+    {
+      "id": "eff3",
+      "nome": "jhoelber",
+      "dataNascimento": "2000-01-15",
+      "telefone": "4332572218",
+      "sexo": "",
+      "senha": "123",
+      "confirmarSenha": "123"
+    },
+    {
+      "id": "0a62",
+      "nome": "QUELTUM",
+      "dataNascimento": "2000-01-15",
+      "telefone": "4335272218",
+      "sexo": "feminino",
+      "senha": "1234"
+    }
+  ]
+}
