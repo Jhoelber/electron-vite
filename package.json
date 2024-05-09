@@ -16,6 +16,7 @@
     "package": "electron-vite build --outDir=dist && electron-forge package",
     "make ": "electron-vite build --outDir=dist && electron-forge make",
     "build": "npm run typecheck && electron-vite build",
+    "backend": "json-server --watch db.json --port 5000",
     "postinstall": "electron-builder install-app-deps",
     "build:unpack": "npm run build && electron-builder --dir",
     "build:win": "npm run build && electron-builder --win --config",
