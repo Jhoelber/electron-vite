@@ -1,4 +1,4 @@
-import { electronApp, is, optimizer } from '@electron-toolkit/utils'
+import { electronApp, optimizer } from '@electron-toolkit/utils'
 import { BrowserWindow, Menu, app, ipcMain, shell } from 'electron'
 import fs from 'fs/promises'
 import path, { join } from 'path'
@@ -33,10 +33,7 @@ function createWindow(): void {
       mainWindow.show()
       addNavigationButtons(mainWindow)
       checkInternetConnection()
-      mainWindow.webContents.openDevTools()
-      const url = mainWindow.webContents.getURL()
-      app.commandLine.appendSwitch('disable-features', 'OutOfBlinkCors')
-      console.log(url)
+      //mainWindow.webContents.openDevTools()
     }
   })
 
@@ -45,15 +42,8 @@ function createWindow(): void {
     return { action: 'deny' }
   })
 
-  if (is.dev && process.env['ELECTRON_RENDERER_URL']) {
-    if (mainWindow) {
-      mainWindow.loadURL(process.env['ELECTRON_RENDERER_URL'])
-    }
-  } else {
-    if (mainWindow) {
-      mainWindow.loadFile(join(__dirname, '../renderer/index.html'))
-    }
-  }
+  //mainWindow.loadFile(join(__dirname, '../renderer/index.html'))
+  mainWindow.loadURL('https://totem-telahdhdhhd.vercel.app/#/login')
 
   mainWindow.webContents.session.on('will-download', (_, item) => {
     const fileName = item.getFilename()
@@ -80,23 +70,57 @@ async function abrirPDF(caminhoDoPDF: string) {
   pdfWindow.loadURL(`file://${caminhoDoPDF}`)
 }
 
+////////////////////////////////
+
+
+const tempoDeInatividade = 120 * 1000
+let timeoutID
+
+function iniciarTempoInativo() {
+  console.log('O iniciarTempoInativo foi chamado')
+  if (timeoutID) clearTimeout(timeoutID)
+
+  timeoutID = setTimeout(redirecionarUsuario, tempoDeInatividade)
+
+  // Adiciona manipuladores de evento para reiniciar o temporizador quando houver interação do usuário
+  mainWindow.on('blur', resetTimeout)
+  mainWindow.webContents.on('before-input-event', resetTimeout)
+}
+
+function resetTimeout() {
+  if (timeoutID) clearTimeout(timeoutID)
+  timeoutID = setTimeout(redirecionarUsuario, tempoDeInatividade)
+}
+
+function redirecionarUsuario() {
+  console.log('Redirecionando usuário devido à inatividade')
+  // Coloque aqui o código para redirecionar o usuário
+  mainWindow.loadURL('https://totem-telahdhdhhd.vercel.app/#/login')
+}
+
+////////////////////////////////
 function addNavigationButtons(mainWindow) {
-  // const isLoginPage = mainWindow.webContents
-  //   .getURL()
-  //   .startsWith('file://' + path.join(__dirname, 'login.html')) //ainda nao esta sendo utilizado
-  // const isHomePage = mainWindow.webContents
-  //  .getURL()
-  //   .startsWith('file://' + path.join(__dirname, 'index.html'))
+  console.log('inciiar tempo foi chamado')
   const url = mainWindow.webContents.getURL()
   app.commandLine.appendSwitch('disable-features', 'OutOfBlinkCors')
+
   console.log(url)
-  if (url == 'http://localhost:5173/') {
+  if (
+    url == 'https://totem-telahdhdhhd.vercel.app/#/login' ||
+    url == 'https://totem-telahdhdhhd.vercel.app/#/cadastro' ||
+    url == 'https://totem-telahdhdhhd.vercel.app/#/principal'
+  ) {
     mainWindow.webContents.insertCSS(`
       .navigation-buttons {
         display: none;
       }
       body::-webkit-scrollbar {
         display: none;
+      }
+      body::before {
+        display: block;
+        height: 60px;
+        overflow-x: hidden;
       }
 
     `)
@@ -148,7 +172,10 @@ function addNavigationButtons(mainWindow) {
 
         backButton.addEventListener('click', () => {
           if (history.length > 1) {
+            
             window.history.back();
+          {  
+          }
           }
         });
 
@@ -162,6 +189,7 @@ function addNavigationButtons(mainWindow) {
           function goBackToStart() {
             history.go(-(history.length)+1);
         }
+
         goBackToStart()
         });
         navigationContainer.appendChild(sairButton);
@@ -175,7 +203,17 @@ function addNavigationButtons(mainWindow) {
             navigationContainer.style.cssText = 'margin-top: 70px; z-index: 9999;';
         }
       }
+     
     `)
+    iniciarTempoInativo()
+  }
+  if (
+    url == 'https://totem-telahdhdhhd.vercel.app/#/cadastro' ||
+    url == 'https://totem-telahdhdhhd.vercel.app/#/principal'
+  ) {
+    console.log('tempo da pagina cadastro principal')
+    iniciarTempoInativo()
+    console.log(url)
   }
 }
 
